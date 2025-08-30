@@ -34,12 +34,6 @@
         </div>
     </section>
 
-    <section id="contacto">
-        <h2>Contacto</h2>
-        <p>📧 Correo: contacto@empresa.com</p>
-        <p>📞 Teléfono: +51 999 999 999</p>
-        <p>📍 Dirección: Av. Principal 123, Lima - Perú</p>
-    </section>
 
     <footer>
         <p>© 2025 Empresa XYZ - Todos los derechos reservados</p>
