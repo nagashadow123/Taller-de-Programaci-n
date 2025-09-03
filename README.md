@@ -13,10 +13,7 @@
         </nav>
     </header>
 
-    <section id="nosotros">
-        <h2>¿Quiénes somos?</h2>
-        <p>Somos una empresa dedicada a ofrecer soluciones innovadoras en tecnología, ayudando a nuestros clientes a crecer y alcanzar sus objetivos.</p>
-    </section>
+   
 
     <section id="servicios">
         <h2>Nuestros Servicios</h2>
