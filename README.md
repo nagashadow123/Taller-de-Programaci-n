@@ -15,21 +15,7 @@
 
    
 
-    <section id="servicios">
-        <h2>Nuestros Servicios</h2>
-        <div class="card">
-            <h3>Consultoría</h3>
-            <p>Asesoría especializada para optimizar procesos empresariales.</p>
-        </div>
-        <div class="card">
-            <h3>Desarrollo Web</h3>
-            <p>Diseño y programación de páginas web modernas y responsivas.</p>
-        </div>
-        <div class="card">
-            <h3>Soporte Técnico</h3>
-            <p>Atención rápida y eficaz para mantener tus sistemas funcionando.</p>
-        </div>
-    </section>
+  
 
 
     <footer>
