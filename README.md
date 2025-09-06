@@ -12,6 +12,7 @@
             <a href="#contacto">Contacto</a>
         </nav>
     </header>
+    
 
    
 
@@ -20,6 +21,10 @@
         <div class="card">
             <h3>Consultoría</h3>
             <p>Asesoría especializada para optimizar procesos empresariales.</p>
+        </div>
+                <div class="card">
+            <h3>Desarrollo Web</h3>
+            <p>Diseño y programación de páginas web modernas y responsivas.</p>
         </div>
 
         <div class="card">
