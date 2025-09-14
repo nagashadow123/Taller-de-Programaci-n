@@ -35,7 +35,8 @@
 
 
     <footer>
-        <p>© 2025 Empresa XYZ - Todos los derechos reservados</p>
+        <p>© 2025 Empresav digital
+        - Todos los derechos reservados</p>
     </footer>
 </body>
 </html>
