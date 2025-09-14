@@ -2,69 +2,97 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Empresa Digital Pro</title>
-   
+    <title>Empresa ABC</title>
     <link rel="stylesheet" href="Prueba.css">
-
 </head>
 <body>
     <header>
-        <h1>Empresa DigitalPro</h1>
+        <h1>DigitalPro</h1>
         <p>Soluciones rápidas y confiables</p>
+        <nav>
+            <a href="#nosotros">Nosotros</a>
+            <a href="#servicios">Servicios</a>
+            <a href="#tabla">Tabla</a>
+            <a href="#video">Video</a>
+            <a href="#contacto">Contacto</a>
+        </nav>
     </header>
 
-    <section>
-        <h2 id="p1">Sobre nosotros</h2>
-        <p>Somos una e  mpresa dedicada a brindar servicios de calidad a nuestros clientes.</p>
+    <main>
+        <section id="nosotros">
+            <h2>Sobre nosotros</h2>
+            <p>Somos una empresa dedicada a brindar servicios de calidad a nuestros clientes.</p>
+            <img src="https://www.shutterstock.com/image-photo/businessman-analytics-data-dashboard-key-260nw-2603558939.jpg" alt="Imagen de la empresa">
+        </section>
 
-        <img src="https://miro.medium.com/1*vxjAHkrXbGG6gOiPZgjeZA.jpeg" alt="Imagen de la empresa">
-    
-    </section>
+        <section id="servicios">
+            <h2>Servicios</h2>
+            <p>- Consultoría</p>
+            <p>- Desarrollo Web</p>
+            <p>- Soporte Técnico</p>
+        </section>
 
-    <section>
-        <h2>Servicios</h2>
-        <p >- Consultoría</p>
-        <p>- Desarrollo Web</p>
-        <p >- Soporte Técnico</p>
-    </section>
+        <section id="tabla">
+            <h2>Planes y Precios</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Servicio</th>
+                        <th>Descripción</th>
+                        <th>Precio</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Consultoría</td>
+                        <td>Asesoría personalizada</td>
+                        <td>$100</td>
+                    </tr>
+                    <tr>
+                        <td>Desarrollo Web</td>
+                        <td>Sitio web moderno y responsivo</td>
+                        <td>$500</td>
+                    </tr>
+                    <tr>
+                        <td>Soporte Técnico</td>
+                        <td>Atención remota y presencial</td>
+                        <td>$50</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
 
-    <section>
-        <h2 >Contacto</h2>
-        <p> correo@DigitalPro.com</p>
-        <p> +51 987 654 321</p>
-    </section>
+        <section id="video">
+            <h2>Video institucional</h2>
+            <iframe width="560" height="315" 
+                src="T.mp4" 
+                title="Video institucional"
+                frameborder="0" allowfullscreen>
+            </iframe>
+        </section>
 
-    <section>
-        <h2>Video institucional</h2>
-        <video width="1000px" height="1000px" controls>
-            <source src="T.mp4" type="video/mp4">
-        </video>
+        <section id="contacto">
+            <h2>Formulario de contacto</h2>
+            <form>
+                <label for="nombre">Nombre:</label><br>
+                <input type="text" id="nombre" name="nombre" required><br><br>
 
-    </section>
+                <label for="email">Correo:</label><br>
+                <input type="email" id="email" name="email" required><br><br>
 
-     <section>
-        <h2>Formulario de contacto</h2>
-        <form>
-            <label for="nombre">Nombre:</label><br>
-            <input type="text" id="nombre" name="nombre" required><br><br>
+                <label for="mensaje">Mensaje:</label><br>
+                <textarea id="mensaje" name="mensaje" rows="4" required></textarea><br><br>
 
-            <label for="email">Correo:</label><br>
-            <input type="email" id="email" name="email" required><br><br>
-
-            <label for="mensaje">Mensaje:</label><br>
-            <textarea id="mensaje" name="mensaje" rows="4" required></textarea><br><br>
-
-            <button type="submit">Enviar</button>
-        </form>
-    </section>
- 
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
+    </main>
 
     <footer>
-        <p> Todos los derechos reservados</p>
+        <p>2025 Empresa DigitalPro - Todos los derechos reservados</p>
     </footer>
 </body>
 </html>
 
-</html>
 
 
