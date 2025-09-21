@@ -9,7 +9,7 @@
         <nav>
             <a href="#nosotros">Nosotros</a>
             <a href="#servicios">Servicios</a>
-            <a href="#contacto">Contaco</a>
+            <a href="#contacto">Contacto</a>
         </nav>
     </header>
     
