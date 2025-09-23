@@ -24,7 +24,7 @@
         </div>
                 <div class="card">
             <h3>Desarrollo Web</h3>
-            <p>Diseño y programación de páginas web modernas y responsivas.</p>
+            <p>Diseño y programación de páginas web moderns y responsivas.</p>
         </div>
 
         <div class="card">
