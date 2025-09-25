@@ -29,7 +29,7 @@
 
         <div class="card">
             <h3>Soporte Técnico</h3>
-            <p>Atención rápida y eficaz para mantener tus sistemas funcionando.</p>
+            <p>Atención rápida y eyficaz para mantener tus sistemas funcionando.</p>
         </div>
     </section>
 
