@@ -20,7 +20,7 @@
         <h2>Nuestros Servicios</h2>
         <div class="card">
             <h3>Consultoría</h3>
-            <p>Asesoría especializada para optimizar procesos empresariales.</p>
+            <p>Asesoría especializada para optimiar procesos empresariales.</p>
         </div>
                 <div class="card">
             <h3>Desarrollo Web</h3>
