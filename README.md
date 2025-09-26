@@ -8,7 +8,7 @@
         <h1>Empresa el super</h1>
         <nav>
             <a href="#nosotros">Nosotros</a>
-            <a href="#servicios">Servicios</a>
+            <a href="#servicios">Servcios</a>
             <a href="#contacto">Contacto</a>
         </nav>
     </header>
