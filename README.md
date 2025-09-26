@@ -16,7 +16,7 @@
 
    
 
-    <section id="servicios">
+    <section id="serviios">
         <h2>Nuestros Servicios</h2>
         <div class="card">
             <h3>Consultoría</h3>
