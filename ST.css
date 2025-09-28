@@ -1,0 +1,133 @@
+/* Fondo general */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-image: url("https://picsum.photos/1920/1080?travel");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    color: #333;
+}
+
+/* Encabezado con fondo */
+header {
+    background-image: url("https://picsum.photos/1920/500?beach");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+    border-bottom: 5px solid #0073e6;
+}
+header nav {
+    margin-top: 15px;
+}
+header nav a {
+    color: white;
+    margin: 0 12px;
+    text-decoration: none;
+    font-weight: bold;
+}
+header nav a:hover {
+    text-decoration: underline;
+}
+
+/* Secciones */
+section {
+    margin: 20px auto;
+    padding: 20px;
+    background: rgba(255,255,255,0.9);
+    border-radius: 8px;
+    max-width: 1000px;
+    box-shadow: 0px 3px 8px rgba(0,0,0,0.2);
+    text-align: center;
+}
+section h2 {
+    color: #0073e6;
+}
+
+/* Tarjetas de destinos */
+.card {
+    display: inline-block;
+    background: white;
+    margin: 15px;
+    padding: 15px;
+    width: 280px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 6px rgba(0,0,0,0.2);
+    vertical-align: top;
+}
+.card img {
+    width: 100%;
+    border-radius: 5px;
+}
+.card h3 {
+    margin: 10px 0;
+}
+.precio {
+    font-weight: bold;
+    color: #0073e6;
+}
+
+/* Tabla de ofertas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+table, th, td {
+    border: 1px solid #ddd;
+}
+th, td {
+    padding: 12px;
+    text-align: center;
+}
+th {
+    background: #0073e6;
+    color: white;
+}
+tr:nth-child(even) {
+    background: #f2f2f2;
+}
+
+/* Formulario */
+form {
+    text-align: left;
+    max-width: 400px;
+    margin: 0 auto;
+}
+input, textarea, button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+button {
+    background: #0073e6;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+}
+button:hover {
+    background: #005bb5;
+}
+
+/* Footer */
+footer {
+    background: rgba(0,0,0,0.8);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Video */
+#video iframe {
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0px 3px 8px rgba(0,0,0,0.3);
+}
